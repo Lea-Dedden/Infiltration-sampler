@@ -3,5 +3,5 @@ Information on infiltration sampler construction including micro board design an
 
 # Content
 
-## Code for nfiltration sampler micro board
+## Code for infiltration sampler micro board
 ## 3D printing filesfor tipping bucket unit, calibration plug
