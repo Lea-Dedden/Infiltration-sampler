@@ -9,7 +9,7 @@ Infiltration sampler is a repository that brings together information on
 ## Code
 for infiltration sampler micro board
 
-## sampler hardware
+## Sampler hardware
 ### STL files 
 3D printing files of tipping bucket unit, calibration plug
 
