@@ -1,9 +1,1 @@
-[submodule "libs/SDI-12"]
-	path = libs/SDI-12
-	url = https://github.com/Positive0Zero/-Arduino-SDI-12-for-level-shifter
-[submodule "SDI-12"]
-	path = SDI-12
-	url = https://github.com/Positive0Zero/-Arduino-SDI-12-for-level-shifter.git
-[submodule "main"]
-	path = main
-	url = https://github.com/Positive0Zero/-Arduino-SDI-12-for-level-shifter.git
+
