@@ -7,6 +7,9 @@ This repository contains hardware construction guidance by [Lea Dedden](https://
 - overview sampler hardware components 
 - 3D printing files of tipping bucket unit, calibration plug
 
-## Contact
+## Contact & Citation
 For questions or collaborations: Lea Dedden (lea.dedden@hydrology.uni-freiburg.de)
+
+If you use the here provided information, please cite:
+<link provided with final pulbication>
 
