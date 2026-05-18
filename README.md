@@ -1,6 +1,6 @@
 # Throughfall sampler
 ## Innovative monitoring approach to measure spatio-temporal throughfall patterns
-This repository contains hardware construction guidance by [Lea Dedden](https://freidok.uni-freiburg.de/pers/345841) together with micro board design and code by Delon Wagner for the reproduction of throughfall samplers following the approach of Dedden & Weiler (2025) (10.5194/egusphere-2025-4285 (DOI))
+This repository contains hardware construction guidance by [Lea Dedden](https://freidok.uni-freiburg.de/pers/345841) together with micro board design and code by [Delon Wagner](https://freidok.uni-freiburg.de/pers/349091) for the reproduction of throughfall samplers following the approach introduced by [Dedden & Weiler (2025)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4285/)
 
 ## Content
 - microboard software (SDI-12 lib: https://github.com/Positive0Zero/-Arduino-SDI-12-for-level-shifter)
